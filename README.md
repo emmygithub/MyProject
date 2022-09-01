@@ -1,2 +1,2 @@
 # MyProject
-This was for a job application in Ireland
+A project where I learned Css from start
